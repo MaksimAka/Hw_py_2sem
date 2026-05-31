@@ -53,6 +53,7 @@ def heavy_comp(x, y):
     return x + y
 
 
-print(heavy_comp(2, 3))
+print(heavy_comp(7, 3))
 print(heavy_comp(2, 3))
 print(heavy_comp(5, 4))
+
